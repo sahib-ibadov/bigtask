@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div__map{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+ gap: 20px;
+ height: 500px;
+ text-align: center;
+ padding: 50px;
+
+}

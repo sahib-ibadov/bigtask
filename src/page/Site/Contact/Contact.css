@@ -1,0 +1,36 @@
+.button__send{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+.div__contactumumi{
+    display: flex;
+    padding-top: 110px;
+    background-color: white;
+    padding-left: 15%;
+    flex-direction: column;
+
+}
+
+.divcontadct{
+    margin-top: 60px;
+    display: flex;
+    gap: 10%;
+
+}
+.swiper__Contact{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    font-size: 12px;
+
+
+
+}
+.div__contact{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}

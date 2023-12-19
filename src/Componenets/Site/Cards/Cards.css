@@ -1,0 +1,103 @@
+/* .card {
+    height: 400px;
+    width: 200px;
+    border: 2px solid black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+} */
+
+
+
+.swiper {
+    width: 100% !important;
+    height: 500px !important;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text{
+    text-decoration: line-through;
+    color: gray;
+}
+.div__cl{
+    height: 30px;
+    width: 40px;
+    background-color: crimson;
+    border-radius: 7px;
+    color: #fff;
+}
+.div_p{
+    color: green;
+}
+.umumi{
+    display: flex;
+    gap: 20px;
+}
+
+.card:hover .overlay {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 43%;
+    left: 16%;
+    width: 80%;
+    height: 10%;
+    background: rgb(241, 240, 240);
+ 
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s, transform 0.3s;
+    display: flex;
+    gap: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+  }
+  
+  .overlay p {
+    color: rgb(0, 0, 0);
+    margin: 0;
+    border: 0.5px;
+    font-size: 14px;
+  }
+  .overlay p:hover{
+    color: rgb(16, 189, 16) ;
+  }
+  
+  .overlay a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+.price{
+    color: green;
+}
+.div__price{
+    text-decoration: line-through;
+    color: gray ;
+}
+.del{
+    height: 30px;
+    width: 50px;
+    color: #fff;
+    background-color: red;
+    border-radius: 7px;
+}
+.div__umumi__icon{
+    margin-top: 10px;
+}

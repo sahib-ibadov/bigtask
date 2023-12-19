@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Section__2__h2{
+    text-align: center;
+    justify-content: center;
+}

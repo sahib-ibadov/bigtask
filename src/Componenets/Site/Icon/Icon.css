@@ -1,0 +1,62 @@
+.div__car{
+    display: flex;
+    gap: 10px;
+    border: 2px solid gray;
+    width: 250px;
+    height: 80px;
+
+}
+.cAR{
+    font-size: 40px;
+}
+.div__p{
+    margin-top: 9px;
+}
+.raf{
+    font-size: 50px;
+}
+.div__pp{
+    margin-top: 9px; 
+}
+.div__ref{
+    display: flex;
+    gap: 10px;
+    border: 2px solid gray;
+    width: 250px;
+    height: 80px;
+
+}
+.div__big{
+    display: flex;
+    gap: 10px;
+    border: 2px solid gray;
+    width: 250px;
+    height: 80px;
+
+}
+.div__ppp{
+    margin-top: 9px; 
+}
+.BIG{
+    font-size: 50px;
+}
+.div__pppp{
+    margin-top: 9px; 
+}
+.circle{
+    font-size: 50px;
+}
+.div__circle{
+    display: flex;
+    gap: 10px;
+    border: 2px solid gray;
+    width: 250px;
+    height: 80px;
+
+}
+.umumi__icon{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    justify-content: center;
+}

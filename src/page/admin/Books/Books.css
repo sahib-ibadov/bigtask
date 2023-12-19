@@ -1,0 +1,15 @@
+.button__books{
+
+    border-radius: 7px;
+    height: 30px;
+    width: 50px;
+    background-color: blue;
+    color: white;
+}
+.button__bookss{
+    border-radius: 7px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}

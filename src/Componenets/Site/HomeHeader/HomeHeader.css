@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home__header__1__div{
+    display: flex;
+    gap: 10px;
+}
+.home__icon{
+    font-size: 35px;
+}
+           
+.div__p{
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.home__header__1{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.home__header{
+    display: flex;
+    gap: 70px ;
+    margin-top: 7px;
+    text-align: center;
+    justify-content: center;
+}
+.homeHeader2{
+    display: flex;
+ justify-content: center;
+ gap: 90px;
+}
+.home__header{
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.div__i{
+    height: 40px;
+    width: 170px;
+    border: 2px solid black;
+}
+.div__input{
+    font-size: 20px;
+}
+.div__input1{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}

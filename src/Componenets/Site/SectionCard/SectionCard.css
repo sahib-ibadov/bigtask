@@ -1,0 +1,21 @@
+.price{
+    color: green;
+}
+.div__price{
+    text-decoration: line-through;
+    color: gray ;
+}
+.del{
+    height: 30px;
+    width: 50px;
+    color: #fff;
+    background-color: red;
+    border-radius: 7px;
+}
+.div__umumi__icon{
+    margin-top: 10px;
+}
+.img{
+ width: 50px;
+ height: 50px;
+}
